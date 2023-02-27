@@ -25,4 +25,6 @@ superscript<sup>Lorem Ipsum is simply dummy text of the printing and typesetting
 
 this is the first project on github
 
+Thank you for visiting our website [Hacking Truth](https://www.hackingtruth.org)
+
 Thank you!
